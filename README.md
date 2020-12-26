@@ -1,0 +1,2 @@
+# DiscordRpc
+Riche Presence Discord
